@@ -1,8 +1,3 @@
-//notes
-//ttgo->button->isPressed()
-///note -- the touch doesn't work, could try not defining touch and then separately including a more suitable library
-
-
 #include <BleKeyboard.h>
 #define LILYGO_WATCH_2020_V1
 #include <LilyGoWatch.h>
